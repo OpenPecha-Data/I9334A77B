@@ -1,0 +1,36 @@
+id: I9334A77B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:23:41.838719'
+last_modified: '2022-05-30T18:23:41.838724'
+parser: null
+source_metadata:
+  title: Butön Rinchen Drup Series
+  language: bo
+  description: 'Texts by and about the great Sakya lama Butön Rinchen Drup (bu ston
+    rin chen grub, 1290–1364) of Shalu Monastery:'
+  volume:
+    f7232:
+      title: Advice in Three Sets of Three
+      base_file: f7232.txt
+      order: 1
+      parent: Advice
+    fBF3A:
+      title: 'A Beautiful Lotus Garland: In Praise of the Omniscient Lord of Dharma
+        Butön Rinchen Drup'
+      base_file: fBF3A.txt
+      order: 2
+      parent: Praise
+    fFAAB:
+      title: Prayer to Butön Rinpoche
+      base_file: fFAAB.txt
+      order: 3
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
